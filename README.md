@@ -37,9 +37,9 @@ node populatedb.js
 
 ## :book: Resources and technologies :computer:
 
-- [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
-- [Express](http://expressjs.com/)
-- [Pug](https://pugjs.org/api/getting-started.html)
-- [MongoDB](https://www.mongodb.com/)
-- [Async](https://caolan.github.io/async/v3/)
-- [Express validator](https://express-validator.github.io/docs/)
+- [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website) - tutorial to build local library
+- [Express.js](http://expressjs.com/) - web application framework
+- [Pug](https://pugjs.org/api/getting-started.html) - template engine for Node.js and for the browser
+- [MongoDB](https://www.mongodb.com/) - NoSQL database
+- [Async](https://caolan.github.io/async/v3/) - library to perform asynchronous operations
+- [Express validator](https://express-validator.github.io/docs/) - middleware to validate data
